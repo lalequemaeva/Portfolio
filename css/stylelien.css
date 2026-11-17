@@ -9,8 +9,8 @@
 
 .bas a:hover,
 .info:hover {
-  text-decoration: underline;
-  color: #1f65b6;
+  color: #ba951d;
+  text-decoration: none;
 }
 
 .contact::after {
@@ -20,5 +20,5 @@
 
 .info {
   text-decoration: none;
-  color: black;
+  color: #361e00;
 }
