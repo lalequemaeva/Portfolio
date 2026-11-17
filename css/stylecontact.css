@@ -1,16 +1,24 @@
 body {
   font-family: "Varela Round", sans-serif;
+  background-color: #f7f1de;
+  color: #5a3100;
 }
 
 ul {
-  border: 1px solid #000;
+  border: 1px solid #b87c4c;
   padding: 25px;
   margin: 10px;
   border-radius: 10px;
+  background-color: #fff;
+}
+
+li::marker {
+  color: #c4a484;
 }
 
 h1 {
   text-align: center;
+  color: #84a57b;
 }
 
 .vesper-libre-regular {

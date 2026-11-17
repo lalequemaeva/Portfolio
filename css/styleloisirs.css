@@ -1,4 +1,6 @@
 body {
+  background-color: #f7f1de;
+  color: #5a3100;
   font-family: "Varela Round", sans-serif;
 }
 
@@ -7,10 +9,16 @@ ul {
   padding: 25px;
   margin: 10px;
   border-radius: 10px;
+  background-color: #fff;
+}
+
+li::marker {
+  color: #e11a45;
 }
 
 h1 {
   text-align: center;
+  color: #2a4993;
 }
 
 .molle-regular-italic {
