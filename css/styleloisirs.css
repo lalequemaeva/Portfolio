@@ -21,10 +21,10 @@ h1 {
   color: #2a4993;
 }
 
-.molle-regular-italic {
-  font-family: "Molle", cursive;
+.fascinate-regular {
+  font-family: "Fascinate", system-ui;
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
 }
 
 .varela-round-regular {
