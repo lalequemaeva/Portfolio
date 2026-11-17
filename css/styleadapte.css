@@ -15,7 +15,7 @@ img {
 /* Téléphones */
 @media (max-width: 600px) {
   body {
-    padding: 12px;
+    padding: 15px;
   }
 
   h1 {
